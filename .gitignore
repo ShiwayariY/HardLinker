@@ -1,0 +1,8 @@
+.cproject
+.project
+.settings/
+.vscode/
+dependencies
+/bin/
+/build/
+/lib/
